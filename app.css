@@ -1,0 +1,11 @@
+.App {
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(242, 247, 248);
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
