@@ -1,0 +1,46 @@
+.searchbar{
+   text-align: center;
+}
+.searchitem{
+    width: 50%;
+    height: 40px;
+    text-align: center;
+}
+.searchbtn{
+    border: none ;
+    background-color: #4CAF50;
+    /* color: white; */
+    padding: 9px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+   
+.items{
+    background-color: rgb(223, 215, 215);
+    width: 200px;
+    font-family: 'Fire Sans', sans-serif;
+    height: 88vh;
+    padding: 45px;
+    margin: 0px;
+}
+.time{
+    text-align: right;
+    
+}
+.lable{
+    color: rgb(66, 170, 211);
+    padding: 0px;background-color: white;
+    text-align: center;
+    font-size: large;
+}
+.btn1{
+    margin-left: 200px;
+    margin-top: 0%;
+}
+
+.search2{
+    text-align: center;
+    margin-left: 50%;
+}
